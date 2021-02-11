@@ -1,0 +1,6 @@
+Repositório referente ao estudo de Análise de Dados com pandas.
+
+Nesse repositório foi analisado alguns dados de Pokemons, disponibilizado no kaggle.
+
+A atividade pedia que fosse usado algumas funções básicas de python e pandas como:
+Dataframe, estrutuda de decisão, tratamento de linhas nulas entre outras.
